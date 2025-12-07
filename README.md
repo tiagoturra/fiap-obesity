@@ -69,10 +69,10 @@ sua leitura e interpretação.
 
 ## Deploy
 
-O deploy do modelo foi realizado na plataforma *Streamlit*  e pode ser consultado através
+O deploy do modelo foi realizado na plataforma *Streamlit* e pode ser consultado através
 do seguinte link:
 
-[**Streamlit**](https://streamlit.io/)
+[**Streamlit**](https://fiap-obesity-9dtat.streamlit.app/)
 
 ## Visão Analítica
 
@@ -81,9 +81,10 @@ insights obtidos com o estudo sobre obesidade.
 
 O compartilhamento com a equipe pode ser realizado através do link:
 
-[**DASHBOARD**](https://acme.com)
+[**Dashboard**](https://acme.com)
 
 ## Vídeo
 
 O vídeo explicativo, mostrando toda a estratégia utilizada e apresentação do
-sistema preditivo e do dashboard analítico em uma visão de negócio tem a duração em torno de 4min a 10min e foi disponibilizado juntamente com a entrega, na plataforma FIAP.
+sistema preditivo e do dashboard analítico em uma visão de negócio tem a duração em 
+torno de 4min a 10min e foi disponibilizado juntamente com a entrega, na plataforma FIAP.
