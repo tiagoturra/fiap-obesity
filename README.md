@@ -81,10 +81,10 @@ insights obtidos com o estudo sobre obesidade.
 
 O compartilhamento com a equipe pode ser realizado através do link:
 
-[**Dashboard**](https://acme.com)
+[**Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZjllYjYwMGItOTFlNy00Y2FkLTlmZmUtZmU5Yzc4OTNlOGMwIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
 ## Vídeo
 
 O vídeo explicativo, mostrando toda a estratégia utilizada e apresentação do
-sistema preditivo e do dashboard analítico em uma visão de negócio tem a duração em 
+sistema preditivo e do dashboard analítico em uma visão de negócio tem a duração em
 torno de 4min a 10min e foi disponibilizado juntamente com a entrega, na plataforma FIAP.
