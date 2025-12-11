@@ -310,8 +310,19 @@ if menu == "🔮 Predição individual":
 # 2) Painel analítico
 # =========================
 
-elif menu == "📊 Painel analítico":
-    st.subheader("Painel analítico da base de pacientes")
+    elif menu == "📊 Painel analítico":
+        st.subheader("Painel analítico da base de pacientes")
+
+        powerbi_embed_url = "https://app.powerbi.com/view?r=eyJrIjoiZjllYjYwMGItOTFlNy00Y2FkLTlmZmUtZmU5Yzc4OTNlOGMwIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9" 
+
+        components.iframe(
+        powerbi_embed_url, 
+        height=700, # Adjust height as needed
+        width="100%", # Adjust width as needed
+        )
+
+        st.write("This is a Streamlit application displaying a Power BI dashboard.")
+
 
 
    
